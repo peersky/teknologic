@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/teknologic/static/css/main.3db0ee02.chunk.css",
-    "main.js": "/teknologic/static/js/main.54e70b8d.chunk.js",
-    "main.js.map": "/teknologic/static/js/main.54e70b8d.chunk.js.map",
+    "main.js": "/teknologic/static/js/main.d2612223.chunk.js",
+    "main.js.map": "/teknologic/static/js/main.d2612223.chunk.js.map",
     "runtime-main.js": "/teknologic/static/js/runtime-main.49419faf.js",
     "runtime-main.js.map": "/teknologic/static/js/runtime-main.49419faf.js.map",
     "static/js/2.d3a6bd07.chunk.js": "/teknologic/static/js/2.d3a6bd07.chunk.js",
     "static/js/2.d3a6bd07.chunk.js.map": "/teknologic/static/js/2.d3a6bd07.chunk.js.map",
     "index.html": "/teknologic/index.html",
-    "precache-manifest.2633a6f1c5f9b10f0aba8e999c97f164.js": "/teknologic/precache-manifest.2633a6f1c5f9b10f0aba8e999c97f164.js",
+    "precache-manifest.a452a20ae47ee866ecbac6e3dcf7f6f4.js": "/teknologic/precache-manifest.a452a20ae47ee866ecbac6e3dcf7f6f4.js",
     "service-worker.js": "/teknologic/service-worker.js",
     "static/css/main.3db0ee02.chunk.css.map": "/teknologic/static/css/main.3db0ee02.chunk.css.map",
     "static/js/2.d3a6bd07.chunk.js.LICENSE.txt": "/teknologic/static/js/2.d3a6bd07.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.49419faf.js",
     "static/js/2.d3a6bd07.chunk.js",
     "static/css/main.3db0ee02.chunk.css",
-    "static/js/main.54e70b8d.chunk.js"
+    "static/js/main.d2612223.chunk.js"
   ]
 }
