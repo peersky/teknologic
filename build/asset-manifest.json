@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teknologic/static/css/main.f45226ac.chunk.css",
+    "main.js": "/teknologic/static/js/main.dde73ae9.chunk.js",
+    "main.js.map": "/teknologic/static/js/main.dde73ae9.chunk.js.map",
+    "runtime-main.js": "/teknologic/static/js/runtime-main.49419faf.js",
+    "runtime-main.js.map": "/teknologic/static/js/runtime-main.49419faf.js.map",
+    "static/js/2.5319f4ea.chunk.js": "/teknologic/static/js/2.5319f4ea.chunk.js",
+    "static/js/2.5319f4ea.chunk.js.map": "/teknologic/static/js/2.5319f4ea.chunk.js.map",
+    "index.html": "/teknologic/index.html",
+    "precache-manifest.165919b8429f1d12d89889e0816a2bf1.js": "/teknologic/precache-manifest.165919b8429f1d12d89889e0816a2bf1.js",
+    "service-worker.js": "/teknologic/service-worker.js",
+    "static/css/main.f45226ac.chunk.css.map": "/teknologic/static/css/main.f45226ac.chunk.css.map",
+    "static/js/2.5319f4ea.chunk.js.LICENSE.txt": "/teknologic/static/js/2.5319f4ea.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/teknologic/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49419faf.js",
+    "static/js/2.5319f4ea.chunk.js",
+    "static/css/main.f45226ac.chunk.css",
+    "static/js/main.dde73ae9.chunk.js"
+  ]
+}
