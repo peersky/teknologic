@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26c9e7888920a579de3ba356b0620f36",
+    "revision": "1cffcfd29b0c778e8cba98c4c203c920",
     "url": "/teknologic/index.html"
   },
   {
-    "revision": "602fc757e96e1252444d",
+    "revision": "112c78afb0c5af3857c3",
     "url": "/teknologic/static/css/main.886243d0.chunk.css"
   },
   {
-    "revision": "a1b314aa429bdfbc1260",
-    "url": "/teknologic/static/js/2.65f6fb61.chunk.js"
+    "revision": "f837d50ef5efad3d9686",
+    "url": "/teknologic/static/js/2.dde4e31e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/teknologic/static/js/2.65f6fb61.chunk.js.LICENSE.txt"
+    "url": "/teknologic/static/js/2.dde4e31e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "602fc757e96e1252444d",
-    "url": "/teknologic/static/js/main.a0e860c7.chunk.js"
+    "revision": "112c78afb0c5af3857c3",
+    "url": "/teknologic/static/js/main.a6bf6c87.chunk.js"
   },
   {
     "revision": "a8f88ed83373e7622a7a",
