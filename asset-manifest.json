@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/teknologic/static/css/main.b3efedad.chunk.css",
-    "main.js": "/teknologic/static/js/main.222ee07d.chunk.js",
-    "main.js.map": "/teknologic/static/js/main.222ee07d.chunk.js.map",
+    "main.js": "/teknologic/static/js/main.33637d71.chunk.js",
+    "main.js.map": "/teknologic/static/js/main.33637d71.chunk.js.map",
     "runtime-main.js": "/teknologic/static/js/runtime-main.49419faf.js",
     "runtime-main.js.map": "/teknologic/static/js/runtime-main.49419faf.js.map",
     "static/js/2.367e57a5.chunk.js": "/teknologic/static/js/2.367e57a5.chunk.js",
     "static/js/2.367e57a5.chunk.js.map": "/teknologic/static/js/2.367e57a5.chunk.js.map",
     "index.html": "/teknologic/index.html",
-    "precache-manifest.e6c5e135672c3a8c222f11c834ac73a2.js": "/teknologic/precache-manifest.e6c5e135672c3a8c222f11c834ac73a2.js",
+    "precache-manifest.efb58f9a13dd27341f431b3b27fe54b5.js": "/teknologic/precache-manifest.efb58f9a13dd27341f431b3b27fe54b5.js",
     "service-worker.js": "/teknologic/service-worker.js",
     "static/css/main.b3efedad.chunk.css.map": "/teknologic/static/css/main.b3efedad.chunk.css.map",
     "static/js/2.367e57a5.chunk.js.LICENSE.txt": "/teknologic/static/js/2.367e57a5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.49419faf.js",
     "static/js/2.367e57a5.chunk.js",
     "static/css/main.b3efedad.chunk.css",
-    "static/js/main.222ee07d.chunk.js"
+    "static/js/main.33637d71.chunk.js"
   ]
 }
