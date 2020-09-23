@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/teknologic/static/css/main.b3efedad.chunk.css",
-    "main.js": "/teknologic/static/js/main.33637d71.chunk.js",
-    "main.js.map": "/teknologic/static/js/main.33637d71.chunk.js.map",
+    "main.css": "/teknologic/static/css/main.ca4e70b3.chunk.css",
+    "main.js": "/teknologic/static/js/main.888caebf.chunk.js",
+    "main.js.map": "/teknologic/static/js/main.888caebf.chunk.js.map",
     "runtime-main.js": "/teknologic/static/js/runtime-main.49419faf.js",
     "runtime-main.js.map": "/teknologic/static/js/runtime-main.49419faf.js.map",
-    "static/js/2.367e57a5.chunk.js": "/teknologic/static/js/2.367e57a5.chunk.js",
-    "static/js/2.367e57a5.chunk.js.map": "/teknologic/static/js/2.367e57a5.chunk.js.map",
+    "static/js/2.480055f3.chunk.js": "/teknologic/static/js/2.480055f3.chunk.js",
+    "static/js/2.480055f3.chunk.js.map": "/teknologic/static/js/2.480055f3.chunk.js.map",
     "index.html": "/teknologic/index.html",
-    "precache-manifest.efb58f9a13dd27341f431b3b27fe54b5.js": "/teknologic/precache-manifest.efb58f9a13dd27341f431b3b27fe54b5.js",
+    "precache-manifest.732d9511f0fa7333549a656f125ea866.js": "/teknologic/precache-manifest.732d9511f0fa7333549a656f125ea866.js",
     "service-worker.js": "/teknologic/service-worker.js",
-    "static/css/main.b3efedad.chunk.css.map": "/teknologic/static/css/main.b3efedad.chunk.css.map",
-    "static/js/2.367e57a5.chunk.js.LICENSE.txt": "/teknologic/static/js/2.367e57a5.chunk.js.LICENSE.txt"
+    "static/css/main.ca4e70b3.chunk.css.map": "/teknologic/static/css/main.ca4e70b3.chunk.css.map",
+    "static/js/2.480055f3.chunk.js.LICENSE.txt": "/teknologic/static/js/2.480055f3.chunk.js.LICENSE.txt",
+    "static/media/AI.svg": "/teknologic/static/media/AI.d489386a.svg",
+    "static/media/hardware.svg": "/teknologic/static/media/hardware.25329256.svg",
+    "static/media/undraw_alien_science_nonm.svg": "/teknologic/static/media/undraw_alien_science_nonm.1966635d.svg",
+    "static/media/undraw_circuit_board_4c4d.svg": "/teknologic/static/media/undraw_circuit_board_4c4d.6a77e074.svg",
+    "static/media/undraw_data_xmfy.svg": "/teknologic/static/media/undraw_data_xmfy.5ff1f6f4.svg",
+    "static/media/undraw_experience_design_eq3j.svg": "/teknologic/static/media/undraw_experience_design_eq3j.daae9472.svg",
+    "static/media/undraw_product_iteration_kjok.svg": "/teknologic/static/media/undraw_product_iteration_kjok.fb60b9cc.svg",
+    "static/media/undraw_prototyping_process_rswj.svg": "/teknologic/static/media/undraw_prototyping_process_rswj.67fa8922.svg",
+    "static/media/undraw_researching_22gp.svg": "/teknologic/static/media/undraw_researching_22gp.4371ea2b.svg",
+    "static/media/undraw_signal_searching_bhpc.svg": "/teknologic/static/media/undraw_signal_searching_bhpc.df52e89b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.49419faf.js",
-    "static/js/2.367e57a5.chunk.js",
-    "static/css/main.b3efedad.chunk.css",
-    "static/js/main.33637d71.chunk.js"
+    "static/js/2.480055f3.chunk.js",
+    "static/css/main.ca4e70b3.chunk.css",
+    "static/js/main.888caebf.chunk.js"
   ]
 }
