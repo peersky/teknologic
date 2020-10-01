@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1403274b5644b5d4a7b8a114f7cfda95",
+    "revision": "3126e6fd9a95486f63d09c0877dd817e",
     "url": "/teknologic/index.html"
   },
   {
-    "revision": "07e99394790e48208f90",
+    "revision": "7517057b255897d61f46",
     "url": "/teknologic/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "7c7c0b6df1213baf356a",
+    "revision": "e6a439930b4cd799eea7",
     "url": "/teknologic/static/css/main.00c62e97.chunk.css"
   },
   {
-    "revision": "07e99394790e48208f90",
-    "url": "/teknologic/static/js/2.9df1a4c7.chunk.js"
+    "revision": "7517057b255897d61f46",
+    "url": "/teknologic/static/js/2.9dfa8a02.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/teknologic/static/js/2.9df1a4c7.chunk.js.LICENSE.txt"
+    "url": "/teknologic/static/js/2.9dfa8a02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c7c0b6df1213baf356a",
-    "url": "/teknologic/static/js/main.f6086efc.chunk.js"
+    "revision": "e6a439930b4cd799eea7",
+    "url": "/teknologic/static/js/main.cd2b7537.chunk.js"
   },
   {
     "revision": "a8f88ed83373e7622a7a",
