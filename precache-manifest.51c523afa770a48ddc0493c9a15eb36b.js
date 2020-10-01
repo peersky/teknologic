@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "096000cab85ddf195e931b760e6c6ece",
+    "revision": "1a1ece15e151d226781ac8d0dbf4fcc4",
     "url": "/teknologic/index.html"
   },
   {
-    "revision": "12c6761f410fd56c50c4",
+    "revision": "07e99394790e48208f90",
     "url": "/teknologic/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "b8689e6365634a6cd37b",
-    "url": "/teknologic/static/css/main.bc7d93d9.chunk.css"
+    "revision": "e7dd2b24c50628919074",
+    "url": "/teknologic/static/css/main.5d2f6460.chunk.css"
   },
   {
-    "revision": "12c6761f410fd56c50c4",
-    "url": "/teknologic/static/js/2.bf8a1311.chunk.js"
+    "revision": "07e99394790e48208f90",
+    "url": "/teknologic/static/js/2.9df1a4c7.chunk.js"
   },
   {
-    "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/teknologic/static/js/2.bf8a1311.chunk.js.LICENSE.txt"
+    "revision": "3453b8997016469371284a28c0e873e2",
+    "url": "/teknologic/static/js/2.9df1a4c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8689e6365634a6cd37b",
-    "url": "/teknologic/static/js/main.05bfe153.chunk.js"
+    "revision": "e7dd2b24c50628919074",
+    "url": "/teknologic/static/js/main.1cb7fd21.chunk.js"
   },
   {
     "revision": "a8f88ed83373e7622a7a",
@@ -48,12 +48,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teknologic/static/media/barix_logo.2e081ad8.png"
   },
   {
+    "revision": "420aac0eb2b1c2a861b50010fe75971b",
+    "url": "/teknologic/static/media/buddha.420aac0e.svg"
+  },
+  {
+    "revision": "cdcef925b63d1b8590583ffb686c4370",
+    "url": "/teknologic/static/media/careers.cdcef925.svg"
+  },
+  {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/teknologic/static/media/dev.59389695.svg"
   },
   {
     "revision": "a0f3e2f9a1724b929c89649ed115c208",
     "url": "/teknologic/static/media/eco1.a0f3e2f9.svg"
+  },
+  {
+    "revision": "9e76e65aedce5b9156e07b6e422c0e01",
+    "url": "/teknologic/static/media/edi.9e76e65a.jpg"
   },
   {
     "revision": "8f0578613105d8bfab9ac99e07eb65de",
@@ -70,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "068b1c3456f23d56ea00acdb6893004b",
     "url": "/teknologic/static/media/map.068b1c34.svg"
+  },
+  {
+    "revision": "22b0852322a29e4b536d69446cec9c29",
+    "url": "/teknologic/static/media/nature.22b08523.svg"
   },
   {
     "revision": "0f21c44c2922c1fae512afd67da64458",
