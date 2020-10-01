@@ -23,7 +23,6 @@ const careerPage = () => (<Page sections={Content.careerPage} name='careers'/>)
 const Main = () => (
 
     <main>
-    {document.title = "Teknologic"}
 	<Switch>
 	<Route exact path='/' component={homePage}/>
 	<Route exact path='/Home' component={homePage}/>

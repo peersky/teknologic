@@ -6,10 +6,13 @@ import { createBrowserHistory } from 'history';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { hotjar } from 'react-hotjar';
+
 
 
 function RenderApp()
 {
+  document.title = "Teknologic"
   const history = createBrowserHistory();
   // Initialize google analytics page view tracking
   history.listen(location => {
@@ -17,6 +20,9 @@ function RenderApp()
   ReactGA.set({ page: location.pathname }); // Update the user's current page
   ReactGA.pageview(location.pathname); // Record a pageview for the given page
   });
+
+  let hjid=2019848
+  hotjar.initialize(hjid);
   return(
     <HashRouter basename='/'>
       <App />
