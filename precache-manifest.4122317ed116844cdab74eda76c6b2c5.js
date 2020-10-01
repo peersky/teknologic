@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "016a6ab7c616abccaa4a4bcd06c90b15",
+    "revision": "1403274b5644b5d4a7b8a114f7cfda95",
     "url": "/teknologic/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teknologic/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "dc5952ede65998863152",
+    "revision": "7c7c0b6df1213baf356a",
     "url": "/teknologic/static/css/main.00c62e97.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teknologic/static/js/2.9df1a4c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc5952ede65998863152",
-    "url": "/teknologic/static/js/main.7fcdc3fc.chunk.js"
+    "revision": "7c7c0b6df1213baf356a",
+    "url": "/teknologic/static/js/main.f6086efc.chunk.js"
   },
   {
     "revision": "a8f88ed83373e7622a7a",
