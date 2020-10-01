@@ -1,0 +1,28 @@
+
+
+main {
+  padding-top:5vh;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+  background-color:none;
+  height: 100%;
+  transition: 1s;
+  background: rgb(1,41,95);
+  background: linear-gradient(0deg, rgba(1,41,95,1) 0%, rgba(9,9,121,1) 98%, rgba(255,179,15,1) 100%);
+}
+
+main p::first-letter
+{
+  color: blueviolet;
+  font-size: 120%;
+}
+
+
+main img
+{
+  max-width:100%;
+    height:auto;
+}
+
