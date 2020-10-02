@@ -32,7 +32,7 @@ import CareerImg from './careers.svg'
 import NatureImg from './nature.svg'
 import ZenImg from './buddha.svg'
 
-const WelcomeBlockTitle = "Dreams --> reality"
+const WelcomeBlockTitle = "We are:"
 const DesignHouseP = "Design house and outsourcing agency - we help to accelerate your project on any stage with diligence and attention towards details"
 const RnDP = "Research and development center -  We develop our know-how in state-of-art technologies"
 const EnthusiastsP = "Enthusiasts - We love what we do. We work on our side to provide our clients with advantage in never ending competition"
