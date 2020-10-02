@@ -32,10 +32,10 @@ import CareerImg from './careers.svg'
 import NatureImg from './nature.svg'
 import ZenImg from './buddha.svg'
 
-const WelcomeBlockTitle = "Where dreams become reality"
+const WelcomeBlockTitle = "Dreams --> reality"
 const DesignHouseP = "Design house and outsourcing agency - we help to accelerate your project on any stage with diligence and attention towards details"
-const RnDP = "Research and development center -  With our state of art technology competence we focus in exponential growth of our client success"
-const EnthusiastsP = "Enthusiasts - We love what we do and proactively work on our side to provide our clients with advantage of our custom in-house solutions"
+const RnDP = "Research and development center -  We develop our know-how in state-of-art technologies"
+const EnthusiastsP = "Enthusiasts - We love what we do. We work on our side to provide our clients with advantage in never ending competition"
 
 const ExpertiseBlockTitle = "Our expertise fields are:"
 const SignalP = "Signal processing"
@@ -49,14 +49,14 @@ const MLP = "Data analysis"
 const ServicesPageTitle = "Our services"
 
 const DevP = "We develop products and end-to-end solutions for our customers from idea, trough concept and up to application and product level"
-const EngP = "We help to accelerate your project by taking part of it on our side and doing diligent design"
-const StrP = "Having wide angle view on your process is important. We lift you there. We can help you in finding best possible roadmap"
+const EngP = "We help to accelerate your project by taking part of it on our side and diligently going tough it"
+const StrP = "Wide angle view on your process is important. We lift you there. We can help you in finding best possible roadmap"
 
-const forward = "We are forward thinking company. We always focus on long term success for us and our partners"
+const forward = "We are forward thinking company. We always focus on long term success, sustainable and reliable solutions"
 const proactive = "We are people, and we work for people"
-const location ="Located in central IT capital of Baltics - Latvia we have access to wide pool of talents and academics. We work worldwide, which makes us perfect destination for outsorcing"
+const location ="Located in IT capital of Baltics - Latvia we have access to wide pool of talents and academics. Situated in comfortable time zone we work worldwide and link together west with east. This makes us perfect destination for outsourcing"
 const doers = "Hands-on attitude. We are do-ers, not waiters. Call us when development ninjas are needed"
-const experts = "Developers in TeknoLogic are experienced across many projects and indistries"
+const experts = "We are experienced across many projects and industries."
 
 
 const welcomeTopics = [
@@ -81,8 +81,8 @@ const attitudeTopics = [
 ]
 
 const serviceTopics = [
-    {id:1, title:"Development services", content:DevP, icon:DevImg, alt:"Develoment services"},
-    {id:2, title:"Engineering services", content:EngP, icon:EngImg, alt:"Develoment services"},
+    {id:1, title:"Development services", content:DevP, icon:DevImg, alt:"Development services"},
+    {id:2, title:"Engineering services", content:EngP, icon:EngImg, alt:"Development services"},
     {id:3, title:"Strategy services", content:StrP, icon:StrImg, alt:"Strategy services"}
 ]
 
@@ -93,7 +93,7 @@ const StratList =["Project technical audit", "Market research", "Data Analysis",
 const serviceSkills = [
     {id:1, title:"Development", content:DevList},
     {id:2, title:"Engineering", content:EngList},
-    {id:3, title:"Stragegy", content:StratList}
+    {id:3, title:"Strategy", content:StratList}
 ]
 
 export const homePage = [
@@ -134,7 +134,7 @@ export const clientPage = [
 
 ////////CAREERS
 
-const InvitationP = "If you are skilled developer, entepreneur, or intern or junior looking for a practice: dont hestitate to send us our cv"
+const InvitationP = "If you are skilled developer, entrepreneur, or just starting your career as intern or junior looking for a practice: don't hesitate to send us our cv"
 const WeAreLookingP = "We are quick learners, do-ers with hands on attitude and are blessed with natural curiosity for technology and details"
 
 const careerTopics = [
@@ -151,8 +151,8 @@ export const careerPage = [
 
 /////ABOUT
 
-const IntroAboutP = "Teknologic is idea is that engineering and development work should be less tied up with specific products, and should be more abstract. We are in state of art - constantly creating, upgrading and trying new, we develop speed without loosing our feel to what we do. "
-const LocationP ="Comfortably situated in Riga, Latvia, we work in tight cooperation with many IT specialists and inhabitants of Instute of Electronics, which gives us decent competence and sourcing capabilities"
+const IntroAboutP = "Teknologic is idea is that engineering and development work should be less tied up with specific products, and should be more abstract. We are in state of art - constantly creating, upgrading and trying new, we develop speed without loosing our feelings to what we do."
+const LocationP ="Comfortably situated in Riga, Latvia, we work in tight cooperation with many IT specialists and inhabitants of Institute of Electronics, which gives us decent competence and sourcing capabilities"
 const CultureP = "In Teknologic we focus on being reliable, dedicated to what we do. We do designs with always thinking best to our customers. We accept all gender and ethnical people as equal, we believe that we are part of life in the Planet and we pay respect for every living creature"
 const MissionP ="Our mission is to bring technologies to the people, make life better, more fun and exciting. We want to help visionaries to express themselves. We are part of society that is building new, sustainable world economy"
 
