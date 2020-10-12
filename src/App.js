@@ -1,6 +1,7 @@
 
 import React from 'react';
 
+import './Main.css'
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
@@ -13,6 +14,15 @@ import Obfuscate from 'react-obfuscate';
 import {
 	Link
 } from 'react-router-dom';
+
+
+import {
+
+  LinkedinIcon,
+  LinkedinShareButton,
+
+} from "react-share";
+
 
 class Button extends React.Component {
 	constructor(props)
@@ -43,31 +53,35 @@ class Button extends React.Component {
 function App() {
 
 
+	let title = "Design Studio TeknoLogic"
+	let shareUrl="www.teknologic.lv"
 return (
 	<div>
 		<header className="App-header">
-
+			shapka
 		</header>
 
 
 
 		<Navbar className="color-nav" variant="light" bg="#FFB30F" sticky="top" collapseOnSelect expand="lg" >
-		<Navbar.Brand href="#home">TeknoLogic</Navbar.Brand>
+		<Navbar.Brand href="#home">TEKNOLOGIC</Navbar.Brand>
 		<Navbar.Toggle aria-controls="responsive-navbar-nav" />
 		<Navbar.Collapse id="responsive-navbar-nav">
 		<Nav className="mr-auto">
-		<Nav.Link href="#home">Home</Nav.Link>
-		<Nav.Link href="#services">Services</Nav.Link>
-		<Nav.Link href="#clients">Clients</Nav.Link>
-		<NavDropdown title="About us" id="collasible-nav-dropdown">
-		<NavDropdown.Item href="#about">About us</NavDropdown.Item>
-		<NavDropdown.Item href="#careers">Careers</NavDropdown.Item>
+		<Nav.Link href="#home">HOME</Nav.Link>
+		<Nav.Link href="#services">SERVICES</Nav.Link>
+		<Nav.Link href="#clients">CLIENTS</Nav.Link>
+		<NavDropdown title="ABOUT" id="collasible-nav-dropdown">
+		<NavDropdown.Item href="#about">ABOUT</NavDropdown.Item>
+		<NavDropdown.Item href="#careers">CAREERS</NavDropdown.Item>
+
 		</NavDropdown>
 		</Nav>
 		<Nav>
+		<LinkedinShareButton url={shareUrl} quote={title}><LinkedinIcon size={32} round={true} /></LinkedinShareButton>
 
 		<Obfuscate className="nav-link" email="tim@teknologic.lv" aria-label="Contact me">
-        Contact
+        contact
         </Obfuscate>
 
 
@@ -77,7 +91,7 @@ return (
 		<Main />
 
 		<footer className="footer">
-		SIA TeknoLogic &copy; 2020
+		SIA TeknoLogic &copy; 2020 <br/>
 		</footer>
 
 	</div>

@@ -1,14 +1,13 @@
 import React from 'react';
-import './Main.css'
 import Page from './Home.js'
-import Contact from './Contact.js'
+
 
 import {
 	Switch,
 	Route,
 } from 'react-router-dom';
 
-import './TeknoLogic.css';
+
 
 import * as Content from "./HomeContent.js"
 

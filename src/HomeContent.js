@@ -1,5 +1,5 @@
-import IntroImg from "./undraw_alien_science_nonm.svg"
-import DesignHouseImg from "./undraw_product_iteration_kjok.svg"
+import DesignHouseImg from "./undraw_alien_science_nonm.svg"
+// import IntroImg from "./undraw_product_iteration_kjok.svg"
 import RnDPImg from "./undraw_prototyping_process_rswj.svg"
 import EnthusiastsImg from "./undraw_researching_22gp.svg"
 import DspImg from './undraw_signal_searching_bhpc.svg'
@@ -32,12 +32,12 @@ import CareerImg from './careers.svg'
 import NatureImg from './nature.svg'
 import ZenImg from './buddha.svg'
 
-const WelcomeBlockTitle = "We are:"
+const WelcomeBlockTitle = "WE ARE"
 const DesignHouseP = "Design house and outsourcing agency - we help to accelerate your project on any stage with diligence and attention towards details"
 const RnDP = "Research and development center -  We develop our know-how in state-of-art technologies"
 const EnthusiastsP = "Enthusiasts - We love what we do. We work on our side to provide our clients with advantage in never ending competition"
 
-const ExpertiseBlockTitle = "Our expertise fields are:"
+const ExpertiseBlockTitle = "OUR EXPERTISE"
 const SignalP = "Signal processing"
 const EEP = "Electronics Engineering"
 const HWP = "Hardware design"
@@ -46,7 +46,7 @@ const MLP = "Data analysis"
 
 
 
-const ServicesPageTitle = "Our services"
+const ServicesPageTitle = "WE DO"
 
 const DevP = "We develop products and end-to-end solutions for our customers from idea, trough concept and up to application and product level"
 const EngP = "We help to accelerate your project by taking part of it on our side and diligently going tough it"
@@ -55,7 +55,7 @@ const StrP = "Wide angle view on your process is important. We lift you there. W
 const forward = "We are forward thinking company. We always focus on long term success, sustainable and reliable solutions"
 const proactive = "We are people, and we work for people"
 const location ="Located in IT capital of Baltics - Latvia we have access to wide pool of talents and academics. Situated in comfortable time zone we work worldwide and link together west with east. This makes us perfect destination for outsourcing"
-const doers = "Hands-on attitude. We are do-ers, not waiters. Call us when development ninjas are needed"
+const doers = "We are do-ers, not waiters. We can do hard, but prefer to do smart. Call us when development ninjas are needed"
 const experts = "We are experienced across many projects and industries."
 
 
@@ -97,9 +97,9 @@ const serviceSkills = [
 ]
 
 export const homePage = [
-    {id:1, title:WelcomeBlockTitle, contents: welcomeTopics, icon:IntroImg, alt:"We Are:", class: "generic"},
+    {id:1, title:WelcomeBlockTitle, contents: welcomeTopics, class: "generic"},
     {id:2, title:ExpertiseBlockTitle, contents: expertiseTopics, class: "deck"},
-    {id:3, title:"Why us", contents: attitudeTopics, icon:WhyImg, alt:"Our Expertise", class: "generic"}
+    {id:3, title:"WHAT SO SPECIAL", contents: attitudeTopics, icon:WhyImg, alt:"Our Expertise", class: "generic"}
 ];
 
 
@@ -129,22 +129,22 @@ const clients = [
 ]
 
 export const clientPage = [
-    {id:1, title:"Among our clients are:", contents: clients, class: "clients"}
+    {id:1, title:"AMONG OUR CLIENTS", contents: clients, class: "clients"}
 ];
 
 ////////CAREERS
 
 const InvitationP = "If you are skilled developer, entrepreneur, or just starting your career as intern or junior looking for a practice: don't hesitate to send us our cv"
-const WeAreLookingP = "We are quick learners, do-ers with hands on attitude and are blessed with natural curiosity for technology and details"
+const WeAreLookingP = "If you posses natural hands on attitude, you love technology and never stop doing - World has many challanges which we solve together with you"
 
 const careerTopics = [
     {id:1, title:"Intro", content:InvitationP},
     {id:2, title:"Our culture", content:WeAreLookingP},
-    {id:3, title:"Open positions", content:"Currently there are no open positions, but feel free to send us our CV so we can keep you in our outsource database!"},
+    {id:3, title:"Open positions", content:"Currently there are no open positions, but this should not be a stop for a right candidate"},
 ]
 
 export const careerPage = [
-    {id:1 , title: "Careers", contents: careerTopics, icon: CareerImg, alt: "Career", class: "generic"}
+    {id:1 , title: "CAREERS", contents: careerTopics, icon: CareerImg, alt: "Career", class: "generic"}
 ]
 
 
@@ -165,5 +165,5 @@ const aboutTopics = [
 
 export const aboutPage = [
 
-    {id:1 , title: "About TeknoLogic", contents: aboutTopics, class: "generic"},
+    {id:1 , title: "ABOUT US", contents: aboutTopics, class: "generic"},
 ];

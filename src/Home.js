@@ -1,6 +1,4 @@
 import React from 'react';
-import './Main.css';
-
 import ContentBlock from './ContentBlock.js'
 
 
